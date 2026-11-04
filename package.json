@@ -1,0 +1,31 @@
+{
+  "name": "raidmate",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.13.1",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @raidmate/client dev",
+    "build": "pnpm --filter @raidmate/client build",
+    "lint": "pnpm --filter @raidmate/client lint",
+    "lint:fix": "pnpm --filter @raidmate/client lint:fix",
+    "typecheck": "pnpm --filter @raidmate/client typecheck",
+    "test": "pnpm --filter @raidmate/client test",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-vue": "^9.32.0",
+    "globals": "^15.13.0",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.0",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}

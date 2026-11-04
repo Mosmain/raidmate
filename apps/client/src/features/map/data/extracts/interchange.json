@@ -1,0 +1,82 @@
+[
+  {
+    "key": "emercom_checkpoint",
+    "name": "КПП МЧС",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -321.56,
+      "y": 22.45,
+      "z": 266.74
+    }
+  },
+  {
+    "key": "path_to_river_flare",
+    "name": "Тропа к реке (Сигнал)",
+    "factions": ["pmc"],
+    "position": {
+      "x": 613.9,
+      "y": 27.9,
+      "z": 71.3
+    }
+  },
+  {
+    "key": "power_station_v_ex",
+    "name": "А-Выход у ТЭЦ",
+    "factions": ["pmc"],
+    "position": {
+      "x": -302.89,
+      "y": 21.65,
+      "z": -367.73
+    }
+  },
+  {
+    "key": "railway_exfil",
+    "name": "Выход на железной дороге",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 474.82,
+      "y": 20.92,
+      "z": -433.99
+    }
+  },
+  {
+    "key": "saferoom_exfil",
+    "name": "Безопасная комната",
+    "factions": ["pmc"],
+    "position": {
+      "x": -47.73,
+      "y": 22.97,
+      "z": 44.06
+    }
+  },
+  {
+    "key": "scav_camp_co_op",
+    "name": "Лагерь Диких (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": -97.48,
+      "y": 18.12,
+      "z": -73.09
+    }
+  },
+  {
+    "key": "transit_customs",
+    "name": "Переход на Таможню",
+    "factions": ["transit"],
+    "position": {
+      "x": 280.26,
+      "y": 23.28,
+      "z": 435.08
+    }
+  },
+  {
+    "key": "transit_streets",
+    "name": "Переход на Улицы Таркова",
+    "factions": ["transit"],
+    "position": {
+      "x": 271.85,
+      "y": 24.1,
+      "z": -453.65
+    }
+  }
+]

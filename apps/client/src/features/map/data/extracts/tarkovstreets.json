@@ -1,0 +1,202 @@
+[
+  {
+    "key": "cardinal_apartment_complex_parking",
+    "name": "Паркинг ЖК Кардинал",
+    "factions": ["scav"],
+    "position": {
+      "x": 104.84,
+      "y": 0.13,
+      "z": -161.17
+    }
+  },
+  {
+    "key": "collapsed_crane",
+    "name": "Упавший кран",
+    "factions": ["pmc"],
+    "position": {
+      "x": 216.12,
+      "y": 3.44,
+      "z": 272.7
+    }
+  },
+  {
+    "key": "courtyard",
+    "name": "Двор-колодец",
+    "factions": ["pmc"],
+    "position": {
+      "x": -150.51,
+      "y": 2.55,
+      "z": 500.13
+    }
+  },
+  {
+    "key": "crash_site",
+    "name": "Место крушения",
+    "factions": ["pmc"],
+    "position": {
+      "x": 312.74,
+      "y": 6.8,
+      "z": 405.96
+    }
+  },
+  {
+    "key": "damaged_house",
+    "name": "Разрушенный дом",
+    "factions": ["pmc"],
+    "position": {
+      "x": -245.41,
+      "y": 6.17,
+      "z": 344.82
+    }
+  },
+  {
+    "key": "entrance_to_catacombs",
+    "name": "Вход в катакомбы",
+    "factions": ["scav"],
+    "position": {
+      "x": -249.01,
+      "y": 2.57,
+      "z": 243.8
+    }
+  },
+  {
+    "key": "expo_checkpoint",
+    "name": "КПП у выставочного центра",
+    "factions": ["pmc"],
+    "position": {
+      "x": 213.12,
+      "y": -0.74,
+      "z": -104.96
+    }
+  },
+  {
+    "key": "klimov_shopping_mall_exfil",
+    "name": "Выход ТЦ на Климова",
+    "factions": ["scav"],
+    "position": {
+      "x": -163.82,
+      "y": 1.59,
+      "z": -5.66
+    }
+  },
+  {
+    "key": "klimov_street_flare",
+    "name": "Улица Климова (Сигнал)",
+    "factions": ["pmc"],
+    "position": {
+      "x": -263.41,
+      "y": 6.5,
+      "z": 43.19
+    }
+  },
+  {
+    "key": "near_kamchatskaya_arch",
+    "name": "Вход у арки на Камчатской",
+    "factions": ["scav"],
+    "position": {
+      "x": 259.57,
+      "y": -3.93,
+      "z": 48.72
+    }
+  },
+  {
+    "key": "pinewood_basement_co_op",
+    "name": "Подвал в Pinewood (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": -114.28,
+      "y": -2.05,
+      "z": 64.88
+    }
+  },
+  {
+    "key": "primorsky_ave_taxi_v_ex",
+    "name": "А-выход Такси на Приморском",
+    "factions": ["pmc"],
+    "position": {
+      "x": -2.19,
+      "y": 3.2,
+      "z": 461.23
+    }
+  },
+  {
+    "key": "sewer_manhole",
+    "name": "Канализация",
+    "factions": ["scav"],
+    "position": {
+      "x": 276.11,
+      "y": 5.36,
+      "z": 345.39
+    }
+  },
+  {
+    "key": "sewer_river",
+    "name": "Река в коллекторе",
+    "factions": ["pmc"],
+    "position": {
+      "x": -267.04,
+      "y": -1.53,
+      "z": 219.48
+    }
+  },
+  {
+    "key": "smugglers_basement",
+    "name": "Подвал Контрабандистов",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 75.99,
+      "y": -0.6,
+      "z": 50.01
+    }
+  },
+  {
+    "key": "stylobate_building_elevator",
+    "name": "Лифт в стилобате",
+    "factions": ["pmc"],
+    "position": {
+      "x": -44.74,
+      "y": 11.04,
+      "z": -72.15
+    }
+  },
+  {
+    "key": "ventilation_shaft",
+    "name": "Вентиляционная шахта",
+    "factions": ["scav"],
+    "position": {
+      "x": -124.13,
+      "y": 3.11,
+      "z": 423.93
+    }
+  },
+  {
+    "key": "transit_ground_zero",
+    "name": "Переход на Эпицентр",
+    "factions": ["transit"],
+    "position": {
+      "x": -258.04,
+      "y": 3.19,
+      "z": 104.69
+    }
+  },
+  {
+    "key": "transit_interchange",
+    "name": "Переход на Развязку",
+    "factions": ["transit"],
+    "position": {
+      "x": 290.55,
+      "y": 4.39,
+      "z": 501.98
+    }
+  },
+  {
+    "key": "transit_lab",
+    "name": "Переход на Лабораторию",
+    "factions": ["transit"],
+    "position": {
+      "x": 209.52,
+      "y": -7.38,
+      "z": 82.4
+    }
+  }
+]

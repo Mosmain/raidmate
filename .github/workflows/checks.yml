@@ -1,0 +1,41 @@
+name: Checks
+
+permissions:
+  contents: read
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [master]
+    paths-ignore:
+      - '**/*.md'
+      - 'LICENSE*'
+      - '.gitignore'
+  push:
+    branches: [master]
+    paths-ignore:
+      - '**/*.md'
+      - 'LICENSE*'
+      - '.gitignore'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          # The SVG maps are a submodule; without it the build ships an empty maps dir.
+          submodules: recursive
+
+      - uses: ./.github/actions/install-js
+
+      - run: pnpm format
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm build

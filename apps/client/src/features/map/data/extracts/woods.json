@@ -1,0 +1,222 @@
+[
+  {
+    "key": "boat",
+    "name": "Лодка",
+    "factions": ["scav"],
+    "position": {
+      "x": 176.64,
+      "y": -20.72,
+      "z": 215.86
+    }
+  },
+  {
+    "key": "bridge_v_ex",
+    "name": "А-Выход на мосту",
+    "factions": ["pmc"],
+    "position": {
+      "x": -485.33,
+      "y": 15.58,
+      "z": -504.06
+    }
+  },
+  {
+    "key": "dead_man_s_place",
+    "name": "Убежище мертвеца",
+    "factions": ["scav"],
+    "position": {
+      "x": 195.55,
+      "y": -16.69,
+      "z": 259.21
+    }
+  },
+  {
+    "key": "eastern_rocks",
+    "name": "Восточные скалы",
+    "factions": ["scav"],
+    "position": {
+      "x": -509.36,
+      "y": 23.99,
+      "z": -35.33
+    }
+  },
+  {
+    "key": "scav_bridge_co_op",
+    "name": "Мост дружбы (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": 93.17,
+      "y": 16.57,
+      "z": -843.98
+    }
+  },
+  {
+    "key": "mountain_stash",
+    "name": "Горный тайник",
+    "factions": ["scav"],
+    "position": {
+      "x": -210.33,
+      "y": 31.47,
+      "z": -213.5
+    }
+  },
+  {
+    "key": "northern_un_roadblock",
+    "name": "Северный пост ООН",
+    "factions": ["pmc"],
+    "position": {
+      "x": -557.32,
+      "y": 9.32,
+      "z": -67.05
+    }
+  },
+  {
+    "key": "old_railway_depot",
+    "name": "Старое депо",
+    "factions": ["scav"],
+    "position": {
+      "x": -517.93,
+      "y": 10.67,
+      "z": 149.19
+    }
+  },
+  {
+    "key": "outskirts",
+    "name": "Окраины",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 349.04,
+      "y": -9.15,
+      "z": 358.58
+    }
+  },
+  {
+    "key": "power_line_passage_flare",
+    "name": "Проход у ЛЭП (Сигнал)",
+    "factions": ["pmc"],
+    "position": {
+      "x": 573.99,
+      "y": -1.75,
+      "z": -85.26
+    }
+  },
+  {
+    "key": "railway_bridge_to_tarkov",
+    "name": "ЖД-мост к Таркову",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -730.43,
+      "y": 8.7,
+      "z": 129.32
+    }
+  },
+  {
+    "key": "ruaf_gate",
+    "name": "Ворота ВС РФ",
+    "factions": ["pmc"],
+    "position": {
+      "x": -142.5,
+      "y": -2.37,
+      "z": 447.58
+    }
+  },
+  {
+    "key": "ruaf_roadblock",
+    "name": "Блокпост ВС РФ",
+    "factions": ["scav"],
+    "position": {
+      "x": -142.25,
+      "y": 0.97,
+      "z": 422.4
+    }
+  },
+  {
+    "key": "scav_bunker",
+    "name": "Бункер Диких",
+    "factions": ["scav"],
+    "position": {
+      "x": 220.43,
+      "y": 20.54,
+      "z": -705.8
+    }
+  },
+  {
+    "key": "scav_house",
+    "name": "Изба Диких",
+    "factions": ["scav"],
+    "position": {
+      "x": 413.69,
+      "y": -12.56,
+      "z": 242.17
+    }
+  },
+  {
+    "key": "un_roadblock",
+    "name": "Южный пост ООН",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -536.12,
+      "y": 1.68,
+      "z": 286.77
+    }
+  },
+  {
+    "key": "zb_014",
+    "name": "ЗБ-014",
+    "factions": ["pmc"],
+    "position": {
+      "x": 447.24,
+      "y": -13.46,
+      "z": 57.46
+    }
+  },
+  {
+    "key": "zb_016",
+    "name": "ЗБ-016",
+    "factions": ["pmc"],
+    "position": {
+      "x": -389.16,
+      "y": 4.15,
+      "z": 11.04
+    }
+  },
+  {
+    "key": "transit_customs",
+    "name": "Переход на Таможню",
+    "factions": ["transit"],
+    "position": {
+      "x": -150.37,
+      "y": 1.11,
+      "z": 403.41
+    }
+  },
+  {
+    "key": "transit_factory",
+    "name": "Переход на Завод",
+    "factions": ["transit"],
+    "position": {
+      "x": -362.05,
+      "y": 1.28,
+      "z": 361.18
+    }
+  },
+  {
+    "key": "transit_lighthouse",
+    "name": "Переход на Маяк",
+    "factions": ["transit"],
+    "position": {
+      "x": 496.04,
+      "y": -16.73,
+      "z": 348.29
+    }
+  },
+  {
+    "key": "transit_reserve",
+    "name": "Переход на Резерв",
+    "factions": ["transit"],
+    "position": {
+      "x": 254.29,
+      "y": -8.71,
+      "z": 362.62
+    }
+  }
+]

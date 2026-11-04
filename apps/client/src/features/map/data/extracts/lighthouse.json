@@ -1,0 +1,162 @@
+[
+  {
+    "key": "armored_train",
+    "name": "Бронепоезд",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 6.27,
+      "y": 13.34,
+      "z": -869.48
+    }
+  },
+  {
+    "key": "hideout_under_the_landing_stage",
+    "name": "Схрон под дебаркадером",
+    "factions": ["scav"],
+    "position": {
+      "x": 133.07,
+      "y": -0.47,
+      "z": 286.84
+    }
+  },
+  {
+    "key": "industrial_zone_gates",
+    "name": "Ворота промзоны",
+    "factions": ["scav"],
+    "position": {
+      "x": -152.56,
+      "y": 12.25,
+      "z": -794.1
+    }
+  },
+  {
+    "key": "mountain_pass",
+    "name": "Тропа через перевал",
+    "factions": ["pmc"],
+    "position": {
+      "x": -188.51,
+      "y": 41.31,
+      "z": -64.49
+    }
+  },
+  {
+    "key": "northern_checkpoint",
+    "name": "Северный блокпост",
+    "factions": ["pmc"],
+    "position": {
+      "x": 114.67,
+      "y": 11.86,
+      "z": -989.46
+    }
+  },
+  {
+    "key": "passage_by_the_lake",
+    "name": "Проход у озера",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -377.29,
+      "y": 27.19,
+      "z": -643.19
+    }
+  },
+  {
+    "key": "path_to_shoreline",
+    "name": "Переход на Берег",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -364.4,
+      "y": 28.76,
+      "z": -121.4
+    }
+  },
+  {
+    "key": "road_to_military_base_v_ex",
+    "name": "А-Выход дорога к военной базе",
+    "factions": ["pmc"],
+    "position": {
+      "x": -328.951263,
+      "y": 16.73,
+      "z": -784.3581
+    }
+  },
+  {
+    "key": "scav_hideout_at_the_grotto",
+    "name": "Укрытие в гроте",
+    "factions": ["scav"],
+    "position": {
+      "x": 180.66,
+      "y": 1.18,
+      "z": -485.94
+    }
+  },
+  {
+    "key": "side_tunnel_co_op",
+    "name": "Боковой тоннель (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": -68.3,
+      "y": 6.83,
+      "z": 318.11
+    }
+  },
+  {
+    "key": "southern_road",
+    "name": "Южная дорога",
+    "factions": ["pmc"],
+    "position": {
+      "x": -295.8,
+      "y": 11.86,
+      "z": 420.6
+    }
+  },
+  {
+    "key": "southern_road_landslide",
+    "name": "Обвал на шоссе",
+    "factions": ["scav"],
+    "position": {
+      "x": -281.3,
+      "y": 11.86,
+      "z": 420.8
+    }
+  },
+  {
+    "key": "transit_icebreaker",
+    "name": "Переход на Ледокол",
+    "factions": ["transit"],
+    "position": {
+      "x": 147.37,
+      "y": 0.3,
+      "z": -182.55
+    }
+  },
+  {
+    "key": "transit_reserve",
+    "name": "Переход на Резерв",
+    "factions": ["transit"],
+    "position": {
+      "x": -293.34,
+      "y": 15.3,
+      "z": -780.71
+    }
+  },
+  {
+    "key": "transit_shoreline",
+    "name": "Переход на Берег",
+    "factions": ["transit"],
+    "position": {
+      "x": -338.35,
+      "y": 17.54,
+      "z": -165.53
+    }
+  },
+  {
+    "key": "transit_woods",
+    "name": "Переход на Лес",
+    "factions": ["transit"],
+    "position": {
+      "x": 110.59,
+      "y": 6.78,
+      "z": -962.8
+    }
+  }
+]

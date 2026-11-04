@@ -1,0 +1,142 @@
+[
+  {
+    "key": "armored_train",
+    "name": "Бронепоезд",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 140.83,
+      "y": -3.92,
+      "z": -146.25
+    }
+  },
+  {
+    "key": "bunker_hermetic_door",
+    "name": "Гермозатвор бункера",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 61.92,
+      "y": -5.26,
+      "z": -190.54
+    }
+  },
+  {
+    "key": "checkpoint_fence",
+    "name": "Забор у КПП",
+    "factions": ["scav"],
+    "position": {
+      "x": 61.97,
+      "y": -4.43,
+      "z": 134.31
+    }
+  },
+  {
+    "key": "cliff_descent",
+    "name": "Спуск со скалы",
+    "factions": ["pmc"],
+    "position": {
+      "x": -9.24,
+      "y": 20.93,
+      "z": 208.43
+    }
+  },
+  {
+    "key": "d_2",
+    "name": "Д-2",
+    "factions": ["pmc"],
+    "position": {
+      "x": -121.48,
+      "y": -17,
+      "z": 172.25
+    }
+  },
+  {
+    "key": "depot_hermetic_door",
+    "name": "Гермодверь к депо",
+    "factions": ["scav"],
+    "position": {
+      "x": 120.78,
+      "y": -10.27,
+      "z": -120.35
+    }
+  },
+  {
+    "key": "exit_to_woods",
+    "name": "Выход в сторону Леса",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 36.53,
+      "y": -5.97,
+      "z": -221.56
+    }
+  },
+  {
+    "key": "heating_pipe",
+    "name": "Трубопровод отопления",
+    "factions": ["scav"],
+    "position": {
+      "x": -35.26,
+      "y": -5.15,
+      "z": -180.12
+    }
+  },
+  {
+    "key": "hole_in_the_wall_by_the_mountains",
+    "name": "Дыра в заборе у скал",
+    "factions": ["scav"],
+    "position": {
+      "x": -261.43,
+      "y": -6.34,
+      "z": 48.52
+    }
+  },
+  {
+    "key": "scav_lands_co_op",
+    "name": "Дикие места (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": -127.9,
+      "y": -3.28,
+      "z": -142.59
+    }
+  },
+  {
+    "key": "sewer_manhole",
+    "name": "Канализационный люк",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 40.18,
+      "y": -5.12,
+      "z": 76.45
+    }
+  },
+  {
+    "key": "transit_customs",
+    "name": "Переход на Таможню",
+    "factions": ["transit"],
+    "position": {
+      "x": -195.85,
+      "y": -4.54,
+      "z": -115.66
+    }
+  },
+  {
+    "key": "transit_lighthouse",
+    "name": "Переход на Маяк",
+    "factions": ["transit"],
+    "position": {
+      "x": 238.75,
+      "y": -6.25,
+      "z": -124.28
+    }
+  },
+  {
+    "key": "transit_woods",
+    "name": "Переход на Лес",
+    "factions": ["transit"],
+    "position": {
+      "x": 215.99,
+      "y": -6.34,
+      "z": -202.36
+    }
+  }
+]

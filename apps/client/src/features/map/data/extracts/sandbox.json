@@ -1,0 +1,72 @@
+[
+  {
+    "key": "emercom_checkpoint",
+    "name": "Пункт МЧС",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 151.63,
+      "y": 24.66,
+      "z": -97.46
+    }
+  },
+  {
+    "key": "mira_ave_flare",
+    "name": "Проспект Мира (Сигнал)",
+    "factions": ["pmc"],
+    "position": {
+      "x": 218.23,
+      "y": 17.99,
+      "z": -38.51
+    }
+  },
+  {
+    "key": "nakatani_basement_stairs",
+    "name": "Спуск в подвал в Nakatani",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": -16.12,
+      "y": 14.76,
+      "z": 335.06
+    }
+  },
+  {
+    "key": "police_cordon_v_ex",
+    "name": "А-Выход полицейский кордон",
+    "factions": ["pmc"],
+    "position": {
+      "x": -19.51,
+      "y": 23.71,
+      "z": 114.94
+    }
+  },
+  {
+    "key": "scav_checkpoint_co_op",
+    "name": "Блокпост Диких (Совм.)",
+    "factions": ["shared"],
+    "position": {
+      "x": 25.22,
+      "y": 24.51,
+      "z": -79.54
+    }
+  },
+  {
+    "key": "tartowers_sales_office",
+    "name": "Офис продаж Tartowers",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 190.8,
+      "y": 17.64,
+      "z": 133.39
+    }
+  },
+  {
+    "key": "transit_streets",
+    "name": "Переход на Улицы Таркова",
+    "factions": ["transit"],
+    "position": {
+      "x": 229.6,
+      "y": 16.99,
+      "z": 65.36
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "key": "cargo_elevator",
+    "name": "Грузовой лифт",
+    "factions": ["pmc"],
+    "position": {
+      "x": -111.79,
+      "y": 5.38,
+      "z": -408.55
+    }
+  },
+  {
+    "key": "hangar_gate",
+    "name": "Ангар",
+    "factions": ["pmc"],
+    "position": {
+      "x": -170.49,
+      "y": 5.54,
+      "z": -218.87
+    }
+  },
+  {
+    "key": "main_elevator",
+    "name": "Центральный лифт",
+    "factions": ["pmc"],
+    "position": {
+      "x": -282.69,
+      "y": -2.81,
+      "z": -334.73
+    }
+  },
+  {
+    "key": "medical_block_elevator",
+    "name": "Лифт медблока",
+    "factions": ["pmc"],
+    "position": {
+      "x": -112.3,
+      "y": -3.11,
+      "z": -344.04
+    }
+  },
+  {
+    "key": "parking_gate",
+    "name": "Парковка",
+    "factions": ["pmc"],
+    "position": {
+      "x": -231.46,
+      "y": 6.19,
+      "z": -457.77
+    }
+  },
+  {
+    "key": "sewage_conduit",
+    "name": "Накопительный коллектор",
+    "factions": ["pmc"],
+    "position": {
+      "x": -122.89,
+      "y": -3.66,
+      "z": -258.32
+    }
+  },
+  {
+    "key": "ventilation_shaft",
+    "name": "Вентиляционная шахта",
+    "factions": ["pmc"],
+    "position": {
+      "x": -145.06,
+      "y": -2.46,
+      "z": -396.83
+    }
+  },
+  {
+    "key": "transit_streets",
+    "name": "Переход на Улицы Таркова",
+    "factions": ["transit"],
+    "position": {
+      "x": -170.14,
+      "y": 1.18,
+      "z": -420.56
+    }
+  }
+]

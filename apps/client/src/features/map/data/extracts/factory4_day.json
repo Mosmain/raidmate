@@ -1,0 +1,112 @@
+[
+  {
+    "key": "camera_bunker_door",
+    "name": "Бункерная дверь с камерой",
+    "factions": ["scav"],
+    "position": {
+      "x": -15.72,
+      "y": -1.65,
+      "z": 40.11
+    }
+  },
+  {
+    "key": "cellars",
+    "name": "Подвалы",
+    "factions": ["pmc"],
+    "position": {
+      "x": 73.89,
+      "y": -3.29,
+      "z": -29.08
+    }
+  },
+  {
+    "key": "courtyard_gate",
+    "name": "Ворота во дворе",
+    "factions": ["pmc"],
+    "position": {
+      "x": 23.76,
+      "y": 1.36,
+      "z": 68.94
+    }
+  },
+  {
+    "key": "gate_0",
+    "name": "Ворота 0",
+    "factions": ["pmc"],
+    "position": {
+      "x": -63.67,
+      "y": 2.85,
+      "z": 55.88
+    }
+  },
+  {
+    "key": "gate_3",
+    "name": "Ворота 3",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 58.43,
+      "y": 3.17,
+      "z": 63.3
+    }
+  },
+  {
+    "key": "med_tent_gate",
+    "name": "Ворота у медицинской палатки",
+    "factions": ["pmc"],
+    "position": {
+      "x": -17.53,
+      "y": 1.99,
+      "z": -61.27
+    }
+  },
+  {
+    "key": "office_window",
+    "name": "Офисное окно",
+    "factions": ["scav"],
+    "position": {
+      "x": 17.83,
+      "y": 8.73,
+      "z": 39.89
+    }
+  },
+  {
+    "key": "smugglers_passage",
+    "name": "Проход Контрабандистов",
+    "factions": ["pmc", "scav"],
+    "position": {
+      "x": 48.03,
+      "y": -1.61,
+      "z": -28.86
+    }
+  },
+  {
+    "key": "transit_customs",
+    "name": "Переход на Таможню",
+    "factions": ["transit"],
+    "position": {
+      "x": 17.34,
+      "y": 0.58,
+      "z": -49.62
+    }
+  },
+  {
+    "key": "transit_lab",
+    "name": "Переход на Лабораторию",
+    "factions": ["transit"],
+    "position": {
+      "x": -27.01,
+      "y": -3.09,
+      "z": -42.75
+    }
+  },
+  {
+    "key": "transit_woods",
+    "name": "Переход на Лес",
+    "factions": ["transit"],
+    "position": {
+      "x": 24.36,
+      "y": 2.24,
+      "z": 60.22
+    }
+  }
+]
